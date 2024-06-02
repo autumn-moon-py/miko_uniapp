@@ -1,16 +1,12 @@
-# miko
+异次元通讯-小程序版
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+目前痛点：
+1.剧情逻辑不够自然，推理逻辑需优化
+2.玩家主观能动性不足，引出选项多数是无意义的
+3.miko的语言表达有时令人厌烦
+4.除了miko以外的人物都显得很工具人，没有足够的剧情渲染
+5.人物成长路线不明，比如第一章经历重重危险救出父亲后第二章并没有表现出成长
+6.情绪渲染不到位，bgm只有一个，没有在适当的时候烘托氛围
+7.旧图鉴画风落后
+8.多数be结点不合理
+9.部分无法打字的场景却打字飞快
